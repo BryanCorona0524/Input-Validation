@@ -1,0 +1,10 @@
+{
+  "database": {
+    "db": "sqlite:///db/phonebook.db"
+  },
+  "auth": {
+    "secret": "de9f3de0b5893d7a1b107d2dee2edaafc76325d4a5c862885c98113ca51650a9",
+    "algorithm": "HS256",
+    "expiration": 60
+  }
+}
